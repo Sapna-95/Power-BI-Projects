@@ -53,5 +53,4 @@ The Power BI dashboard includes the following visual insights:
 
 ---
 
-## 🙌 Acknowledgements
-Project by **Sapna Devi**  
+ 
